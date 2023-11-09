@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Occtoo.Formatter.Newstore", "Occtoo.Formatter.Newstore.csproj", "{021A8D0C-45FE-4264-9647-96D8E6108349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021A8D0C-45FE-4264-9647-96D8E6108349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021A8D0C-45FE-4264-9647-96D8E6108349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021A8D0C-45FE-4264-9647-96D8E6108349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021A8D0C-45FE-4264-9647-96D8E6108349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFBF616-DF0E-4AB6-B5D7-1D48B3E40397}
+	EndGlobalSection
+EndGlobal
