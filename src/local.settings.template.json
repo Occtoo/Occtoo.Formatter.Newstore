@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "newStoreTenant": "{YourTenant}",
+    "newStoreUser": "{YourUser}",
+    "newStorePassword": "{YourPassword}",
+    "newStoreQueue": "newstore-outbox",
+    "occtooDestinationUrl": "https://global.occtoo.com/axelarigato/newstore/v3",
+    //"occtooDestinationUrl": "https://global.occtoo.com/{YourCompany}/{DestinationName}/v1",
+    //"occtooTokenUrl": "https://destinations.occtoo.com/destinations/{DestinationId}/token",
+    "occtooTokenUrl": "https://destinations.occtoo.com/destinations/d3b04794-e29b-4a09-b5c0-889e8cd07795/token",
+    "occtooTokenId": "356839a6-9f82-4a86-92d6-9d3b14ec3611",
+    "occtooTokenSecret": "cDLxeoPG72/Am1OGaBe48vUM6LC6u0wCEOQ1nY/FgLc="
+  }
+}

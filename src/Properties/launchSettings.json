@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Occtoo.Formatter.Newstore": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7237",
+      "launchBrowser": false
+    }
+  }
+}
